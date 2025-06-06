@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="title">BMI Calculator</string>
+    <string name="hint_bb">Berat Badan (Kg)</string>
+    <string name="hint_tb">Tinggi Badan (Cm)</string>
+    <string name="hitung_btn">Hitung BMI</string>
+    <string name="bmi_result">BMI Anda : </string>
+    <string name="kategori_result">Kategori :</string>
+</resources>
